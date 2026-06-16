@@ -40,7 +40,7 @@ export default function SleepDashboard() {
         <h2>Your task</h2>
         <p style={{ marginBottom: 24 }}>
           Load your analyzed sleep JSON from <code>public/</code> and build at
-          least 2 charts. Some ideas:
+          least 2 charts.
         </p>
 
         <p
