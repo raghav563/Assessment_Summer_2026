@@ -88,6 +88,7 @@ The app will be available at `http://localhost:5173`.
 
 ## Submission
 
-1. Fork this repository to your own GitHub account
-2. Complete the assessment on your fork
-3. Share the link to your fork when you're done
+1. Click **"Use this template"** → **"Create a new repository"** on GitHub
+2. Set your new repo to **private**
+3. Complete the assessment there
+4. When done, invite your interviewer as a collaborator and share the repo link
