@@ -1,0 +1,16 @@
+[
+  { "date": "2024-01-01", "sleep_duration_hours": 7.2, "hrv_ms": 58, "spo2_percent": 97 },
+  { "date": "2024-01-02", "sleep_duration_hours": 6.5, "hrv_ms": 44, "spo2_percent": 95 },
+  { "date": "2024-01-03", "sleep_duration_hours": 8.1, "hrv_ms": 71, "spo2_percent": 98 },
+  { "date": "2024-01-04", "sleep_duration_hours": 5.9, "hrv_ms": 39, "spo2_percent": 94 },
+  { "date": "2024-01-05", "sleep_duration_hours": 7.8, "hrv_ms": 65, "spo2_percent": 97 },
+  { "date": "2024-01-06", "sleep_duration_hours": 6.3, "hrv_ms": 51, "spo2_percent": 96 },
+  { "date": "2024-01-07", "sleep_duration_hours": 7.5, "hrv_ms": 60, "spo2_percent": 97 },
+  { "date": "2024-01-08", "sleep_duration_hours": 8.4, "hrv_ms": 74, "spo2_percent": 99 },
+  { "date": "2024-01-09", "sleep_duration_hours": 6.0, "hrv_ms": 42, "spo2_percent": 95 },
+  { "date": "2024-01-10", "sleep_duration_hours": 7.1, "hrv_ms": 56, "spo2_percent": 96 },
+  { "date": "2024-01-11", "sleep_duration_hours": 5.5, "hrv_ms": 35, "spo2_percent": 93 },
+  { "date": "2024-01-12", "sleep_duration_hours": 7.9, "hrv_ms": 68, "spo2_percent": 98 },
+  { "date": "2024-01-13", "sleep_duration_hours": 8.2, "hrv_ms": 72, "spo2_percent": 98 },
+  { "date": "2024-01-14", "sleep_duration_hours": 6.7, "hrv_ms": 49, "spo2_percent": 96 }
+]
